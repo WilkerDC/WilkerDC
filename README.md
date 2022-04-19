@@ -1,5 +1,6 @@
-- 👋 Oi, eu sou @WilkerDC
-- 👀 I’m interested in creat a project.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on instagram @wilkercosta50
+- 👋 Hello World, eu sou Wilker
+- 👀 Looking for: estágio/trainee  
+- 🌱 I’m currently learning: JS
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 👨‍💻Mais sobre mim : https://www.linkedin.com/in/wilker-oliveira-78a018230/
+-
